@@ -24,7 +24,7 @@ An intelligent educational platform that provides personalized learning experien
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Vijayganesh07/AI-powered-personal-tutor.git
+git clone https://github.com/vijayganesh-07/AI-powered-personal-tutor.git
 ```
 
 2. Create and activate a virtual environment (recommended):
