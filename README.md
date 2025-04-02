@@ -13,7 +13,7 @@ An intelligent educational platform that provides personalized learning experien
 
 ## Prerequisites
 
-- Python 3.8 or higher
+- Python 3.10
 - Ollama installed and running locally (for LLM inference)
 - Sufficient disk space for document storage and vector database
 - Required Ollama models:
