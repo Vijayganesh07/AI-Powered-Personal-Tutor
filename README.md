@@ -147,9 +147,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Streamlit for the web interface framework
 - LangChain for document processing utilities
 
-# 📑 RAG with Cross-Encoders Re-ranking Demo Application
-
-Demo LLM app with RAG for the YouTube video.
 
 🚨 NOTE: **Requires `Python > 3.10` with  `SQLite > 3.35`**
 
